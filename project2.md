@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](/)
 
 Perl Hash Table with File Input and Output
 ===============
@@ -46,4 +46,4 @@ This was a simple yet important exercise in Perl. The hash table and file input/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Back to Portfolio](./)
+[Back to Portfolio](/)
