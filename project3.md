@@ -22,13 +22,12 @@ Step 2: Clone all files from the Github repository into a folder.<br></br>
 Step 3: Launch the Netbeans IDE and select "Open Project".<br></br>
 Step 4: Navigate to the project folder.<br></br>
 Step 5: Open the project.<br></br>
-Step 6: Highlight the "EncrypMain.java" file.<br></br>
+Step 6: Highlight the "EncryptMain.java" file.<br></br>
 Step 7: Click "Run Project".<br></br>
 
 ## UI Design
 
-The program is not very UI interactive in itself, but the Netbeans IDE is an interaction-based UI as a whole. However, the focus is not on the Netbeans IDE, but the program itself. Once the user starts the "EncrypMain.java",  
-
+The program is not very UI interactive in itself, but the Netbeans IDE is an interaction-based UI as a whole. However, the focus is not on the Netbeans IDE, but the program itself. Once the user starts the "EncryptMain.java", the user is prompted to enter the path to a file they wish to encrypt (see figure 1). If the file is not found, the program will throw an error. However, if a file is found, the program gives the green light and proceeds to ask the user what encryption algorithm they would prefer (see figure 2). For reference, see figure 3 for what the test file contains. Once the user presses a number for the preferred encryption algorithm (1 for Caesarean and 2 for DES), the program then asks for a password to encrypt the file with (see figure 4). Once the user enters the desired password, it is hashed and salted (see figure 5). The user has successfully encrypted a file. See figure 6 to inspect the encrypted contents of the text file. Next, the user is prompted for the original password and the encrypted password. The program will verify both the original and the encrypted password (see figure 7). The user is prompted for the file path of the file they want decrypted. If it is found, the program will decrypt it (see figure 8). See figure 9 to verify that the file is decrypted.
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen
 
