@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Perl Hash Table with File Input and Output| CSCI 301](project2)
+### [Perl Hash Table with File Input and Output | CSCI 301](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -31,36 +31,36 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Good Hacker?](/pdf/csci235Ethics.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 235**  
+-   **Grade: 100.00**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Copyright - A Necessary Evil](/pdf/csci301Ethics.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301** 
+-   **Grade: 100.00**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics in Cybersecurity](/pdf/csci325Ethics.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325** 
+-   **Grade: 100.00**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [The Equifax Data Breach](/pdf/EquifaxDataBreach.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 301** 
+- **Grade: 100.00**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [How to Compromise A Cell Phone](/pdf/HowtoCompromiseaCellPhone.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 405** 
+- **Grade: 100.00**
 
 ---
 
