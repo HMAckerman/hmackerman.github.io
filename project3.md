@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Fort Knox Encryptor
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
+-   **Class: CSCI 325** 
+-   **Grade: 95.00**
+-   **Language(s): Java**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:HMAckerman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -37,7 +37,11 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+
+## 4. Additional Credit
+
+This project was not based upon a single student's work. Rather, it was the work of several students including myself. Those students are Trevor Abel, Ryan Hinson, and Alex Lopez. This project could not have come to fruition without their help. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
