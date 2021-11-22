@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Perl Hash Table with File Input and Output | CSCI 301](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Sorted Output](images/sorted.jpg)
 
 ---
 ### [Fort Knox Encryptor | CSCI 325](project3)
