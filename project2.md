@@ -1,43 +1,48 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Perl Hash Table with File Input and Output
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 301** 
+-   **Grade: 100.00**
+-   **Language(s): Perl**
+-   **Source Code Repository:** [HMAckerman/SOSProject](https://github.com/HMAckerman/SOSProject)  
+    (Please [email me](mailto:HMAckerman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a small script used to read scores from a text file and then does several operations, including averaging, sorting, and finding the largest value. This program implements a hash table to store values based on a key, the name of the individual, and associates the name with a score, in this case a bowling score. First, the program reads from a text file known as “scores.txt”. This file is formatted in a “name score\n” format with the name and its associated score separated by a space. Secondly, the program takes all the names in the “scores.txt” file and averages the scores into one output file known as “average.txt”. Thirdly, the program takes all of the scores and sorts them in ascending order by score and outputs them into a “sorted.txt” file. Finally, the program takes the largest score and outputs the individual’s name and associated score to a “winner.txt” file.
 
 ## How to compiles / run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd /project2
+perl -MCPAN -e shell
+install File::Slurp
+install List::UtilsBy
+q
+./perlHashing.pl
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This program has no UI, due to it being a scripting exercise with an emphasis on the structure of Perl hash tables. While not overly complex in function,
+the program fulfills a useful role of reading information from a text file, manipulating it, and creating output files. In figure 1, the first operation of sorting can be viewed, where the scores are sorted in ascending order. The names and scores are associated with one another thanks to a hash table. The averaging function is displayed in figure 2. This is the output after averaging all the scores together. The third operation selects the name with the highest score. 
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/sorted.jpg)
+Fig 1. The output after sorting the values in ascending order according to their score. 
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/averaged.jpg)
+Fig 2. The output after averaging the scores together.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/winner.jpg)
+Fig 3. The output after deciding the winner. 
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This was a simple yet important exercise in Perl. The hash table and file input/output showcased the unique relationships between variables. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
