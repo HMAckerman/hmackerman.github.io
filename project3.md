@@ -6,7 +6,7 @@ Fort Knox Encryptor
 -   **Class: CSCI 325** 
 -   **Grade: 95.00**
 -   **Language(s): Java**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [HMAckerman/OOPProject](https://github.com/HMAckerman/OOPProject)  
     (Please [email me](mailto:HMAckerman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
