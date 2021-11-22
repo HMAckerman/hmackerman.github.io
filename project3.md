@@ -11,20 +11,23 @@ Fort Knox Encryptor
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a file encryption service that will take a user designated file and a user designated encryption algorithm, pulled from a list of provided encryptions from the UI. The user will start by running the program, which will then ask the user to provide a file. After it verifies that the file exists, the UI will present a list of several encryption algorithms that the user can use on the file. Then, the program will process the form of encryption and print out a completion statement once finished. The program will show the user where the file was saved to. A prompt will appear, asking if the user wishes to decrypt the file or quit the program. Once it is decrypted, the file's location will be displayed (in the same place as the encrypted file) and the program will exit.
 
 ## How to compiles / run the program
 
 How to compile (if applicable) and run the project.
 
-```bash
-cd ./project
-python setup.py
-```
+Step 1: Install the Netbeans IDE, version 8.1 or later.
+Step 2: Clone all files from the Github repository into a folder.
+Step 3: Launch the Netbeans IDE and select "Open Project".
+Step 4: Navigate to the project folder.
+Step 5: Open the project.
+Step 6: Highlight the "EncrypMain.java" file.
+Step 7: Click "Run Project". 
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The program is not very UI interactive in itself, but the Netbeans IDE is an interaction-based UI as a whole. However, the focus is not on the Netbeans IDE, but the program itself. Once the user starts the "EncrypMain.java",  
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen
