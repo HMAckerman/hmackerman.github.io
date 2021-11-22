@@ -28,20 +28,35 @@ Step 7: Click "Run Project".<br></br>
 ## UI Design
 
 The program is not very UI interactive in itself, but the Netbeans IDE is an interaction-based UI as a whole. However, the focus is not on the Netbeans IDE, but the program itself. Once the user starts the "EncryptMain.java", the user is prompted to enter the path to a file they wish to encrypt (see figure 1). If the file is not found, the program will throw an error. However, if a file is found, the program gives the green light and proceeds to ask the user what encryption algorithm they would prefer (see figure 2). For reference, see figure 3 for what the test file contains. Once the user presses a number for the preferred encryption algorithm (1 for Caesarean and 2 for DES), the program then asks for a password to encrypt the file with (see figure 4). Once the user enters the desired password, it is hashed and salted (see figure 5). The user has successfully encrypted a file. See figure 6 to inspect the encrypted contents of the text file. Next, the user is prompted for the original password and the encrypted password. The program will verify both the original and the encrypted password (see figure 7). The user is prompted for the file path of the file they want decrypted. If it is found, the program will decrypt it (see figure 8). See figure 9 to verify that the file is decrypted.
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![File Path](images/FKEFig1.png)
+Fig 1. The user inputs a file path.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![Choose Encryption Algorithm](images/FKEFig2.png)
+Fig 2. The user chooses the encryption algorithm.
 
-## 3. Additional Considerations
+![Test File](images/FKEFig3.png)
+Fig 3. This is what the test file contains.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+![Get Password](images/FKEFig4.png)
+Fig 4. The program gets the desired password from the user.
 
-## 4. Additional Credit
+![Salting of the Password](images/FKEFig5.png)
+Fig 5. The password is hashed and salted.
+
+![Test File](images/FKEFig6.png)
+Fig 6. This is the encrypted contents of the file.
+
+![Verification](images/FKEFig7.png)
+Fig 7. The program verifies both the original and encrypted password.
+
+![Decryption](images/FKEFig8.png)
+Fig 8. The program decrypts the file.
+
+![Decrypted Contents](images/FKEFig9.png)
+Fig 9. This is the decrypted contents of the file.
+
+## 3. Additional Considerations and Credit
 
 This project was not based upon a single student's work. Rather, it was the work of several students including myself. Those students are Trevor Abel, Ryan Hinson, and Alex Lopez. This project could not have come to fruition without their help. All code and work has been credited to the proper authors. 
 
