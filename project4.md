@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+UDP Client and Server
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
+-   **Class: CSCI 332** 
+-   **Grade: 100**
+-   **Language(s): C++, C**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:HMAckerman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
