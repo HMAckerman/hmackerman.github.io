@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [UDP Client and Server | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![UDP Client and UDP Server](images/dummy_thumbnail.jpg)
 
 ---
 
