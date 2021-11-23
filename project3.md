@@ -17,13 +17,13 @@ This project is a file encryption service that will take a user designated file 
 
 How to compile (if applicable) and run the project.
 
-Step 1: Install the Netbeans IDE, version 8.1 or later.<br></br>
-Step 2: Clone all files from the Github repository into a folder.<br></br>
-Step 3: Launch the Netbeans IDE and select "Open Project".<br></br>
-Step 4: Navigate to the project folder.<br></br>
-Step 5: Open the project.<br></br>
-Step 6: Highlight the "EncryptMain.java" file.<br></br>
-Step 7: Click "Run Project".<br></br>
+Step 1: Install the Netbeans IDE, version 8.1 or later.<br>
+Step 2: Clone all files from the Github repository into a folder.<br>
+Step 3: Launch the Netbeans IDE and select "Open Project".<br>
+Step 4: Navigate to the project folder.<br>
+Step 5: Open the project.<br>
+Step 6: Highlight the "EncryptMain.java" file.<br>
+Step 7: Click "Run Project".<br>
 
 ## UI Design
 
