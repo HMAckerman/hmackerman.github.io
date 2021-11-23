@@ -48,6 +48,10 @@ Fig 6. The user makes too many incorrect guesses.
 
 Although this program seems simple at first glance, most of the backend is rather complex. It required making sure that every time the game was replayed, a different phase was used. Additionally, it required analyzing phrases on a per-character basis in the file. This was my introduction to C++, and it was a great learning experience.
 
+## 4. Additional Credit
+
+This project was a team effort. I could not have done it without the help of Ryan Hinson. 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
