@@ -1,43 +1,52 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Hangman with Structs
 ===============
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 235** 
+-   **Grade: 100.00**
 -   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [HMAckerman/PROCEDURALProject](https://github.com/HMAckerman/PROCEDURALProject)  
+    (Please [email me](mailto:HMAckerman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a team project. This project was an accumulation of all C++ knowledge learned within CSCI 235, Procedural Programming. The task was to create a Hangman-style game with predefined phrases in a text file. This program randomized the phrase chosen from the text file, allowing the player to play multiple times until all phrases were exhausted. Additionally, this program offered several different difficulty settings so the user can play harder "levels".  
 
 ## How to compiles / run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+cd /project1
+g++ -Wextra -std=c++17 -o hangman.exe hangman.cpp
 ```
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This project was primarily UI based through a command prompt. First, the user runs the hangman.exe file. A command prompt pops up, asking the user for their preferred difficulty level (see figure 1). The user is presented with a "noose" and several underscores. They are prompted to make a guess (see figure 2). If the user enters a letter that it is in the phrase, they receive "Good guess!", and the game continues (see figure 3). However, if they make an incorrect guess, a part of the stick figure is added to the noose. The game also keeps track of incorrect guesses (see figure 4). If the user wins, they receive a message saying "You win!". The game then prompts them for a replay (see figure 5). However, if they take too many guesses, they are "dead" (see figure 6). 
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![Difficulty](images/cppfig1.jpg)
+Fig 1. The user is given the choice to choose a difficulty.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![Guesses](images/cppfig2.jpg)
+Fig 2. The user is prompted to make a guess.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![Correct Guess](images/cppfig3.jpg)
+Fig 3. The user makes a correct guess.
+
+![Incorrect Guess](images/cppfig4.jpg)
+Fig 4. The user makes an incorrect guess.
+
+![Win](images/cppfig5.jpg)
+Fig 5. The user wins a game!
+
+![Lose](images/cppfig6.jpg)
+Fig 6. The user makes too many incorrect guesses.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Although this program seems simple at first glance, most of the backend is rather complex. It required making sure that every time the game was replayed, a different phase was used. Additionally, it required analyzing phrases on a per-character basis in the file. This was my introduction to C++, and it was a great learning experience.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
