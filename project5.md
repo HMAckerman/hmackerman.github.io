@@ -20,13 +20,13 @@ This project operated around the "low-code" design, which is essentially a way t
 ![Appsmith 1](images/appsmithfig1.jpg)
 Fig 1. This is the authentication API I configured to handle login purposes.
 
-![Appsmith 2](images/appsmith2.jpg)
+![Appsmith 2](images/appsmithfig2.jpg)
 Fig 2. This is the API that passes the username and password through the authentication API.
 
-![Appsmith 3](images/appsmith4.jpg)
+![Appsmith 3](images/appsmithfig4.jpg)
 Fig 3. This is a JavaScript snippet that executes the auth_api on a button click.
 
-![Appsmith 4](images/appsmith3.jpg)
+![Appsmith 4](images/appsmithfig3.jpg)
 Fig 4. This is the API that handles file upload to an Amazon S3 bucket. 
 
 ![Auth0 1](images/auth0fig1.jpg)
