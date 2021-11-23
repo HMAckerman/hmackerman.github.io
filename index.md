@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Fort Knox Encryptor | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/FKEFig1.png)
 
 ---
 ### [UDP Client and Server | CSCI 332](project4)
