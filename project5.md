@@ -11,20 +11,41 @@ Appsmith Web Application Backend
 
 ## Project description
 
-This project was a team-based project, where my team and I were tasked with building a website for a small medical university. I will be showcasing the work that I have done in this project, being the backend developer. As a result, instructions will not be given to run/compile this project. Not from me not wanting to give instructions, but from the inability to do so. 
+This project was a team-based project, where my team and I were tasked with building a website for a small medical university. I will be showcasing the work that I have done in this project, being the backend developer. As a result, instructions will not be given to run/compile this project. This is not from me not wanting to give instructions, but from the inability to do so. 
 
 ## UI Design
 
-This project operated around the "low-code" design, which is essentially a way to build a web application with very little code. However, this does not mean that the finished product will lack the functionality of a typical web application. Appsmith provides a way to link multiple datasources and create multiple APIs to interact with JavaScript snippets. 
+This project operated around the "low-code" design, which is essentially a way to build a web application with very little code. However, this does not mean that the finished product will lack the functionality of a typical web application. Appsmith provides a way to link multiple datasources and create multiple APIs to interact with JavaScript snippets. The following screenshots will showcase the various tasks I accomplished. 
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![Appsmith 1](images/appsmithfig1.jpg)
+Fig 1. This is the authentication API I configured to handle login purposes.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![Appsmith 2](images/appsmith2.jpg)
+Fig 2. This is the API that passes the username and password through the authentication API.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![Appsmith 3](images/appsmith4.jpg)
+Fig 3. This is a JavaScript snippet that executes the auth_api on a button click.
+
+![Appsmith 4](images/appsmith3.jpg)
+Fig 4. This is the API that handles file upload to an Amazon S3 bucket. 
+
+![Auth0 1](images/auth0fig1.jpg)
+Fig 5. The database connection within the Auth0 service handles authentication, encrypting created passwords with the bcrypt algorithm.
+
+![Auth0 2](images/auth0fig2.jpg)
+Fig 6. A list of the users registered in the database.
+
+![Auth0 3](images/auth0fig3.jpg)
+Fig 7. A Student role in the RBAC security policy.
+
+![Auth0 4](images/auth0fig4.jpg)
+Fig 8. The Admin role in the RBAC security policy.
+
+![Auth0 5](images/auth0fig5.jpg)
+Fig 9. The Appsmith application endpoint.
+
+![MongoDB](images/mongoDBfig1.jpg)
+Fig 10. The MongoDB collection with the users and the bcrypt-hashed passwords. 
 
 ## 3. Additional Considerations
 
