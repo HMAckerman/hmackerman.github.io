@@ -29,7 +29,7 @@ Programming Projects
 ---
 ### [Appsmith Web Application | CSCI 495](project5)
 
-![Appsmith](images/udpfig4.jpg) 
+![Appsmith](images/auth0fig5.jpg) 
 
 Ethics Papers
 -------------
