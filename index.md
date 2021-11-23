@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Perl Hash Table with File Input and Output | CSCI 301](../project2.md)
+### [Perl Hash Table with File Input and Output | CSCI 301](../../project2.md)
 
 ![Sorted Output](images/sorted.jpg)
 
