@@ -1,30 +1,21 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Appsmith Web Application Backend
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: CSCI 495** 
+-   **Grade: TBA**
+-   **Language(s): JavaScript**
+-   **Source Code Repository:** N/A 
+    (Please [email me](mailto:HMAckerman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## How to compiles / run the program
-
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+This project was a team-based project, where my team and I were tasked with building a website for a small medical university. I will be showcasing the work that I have done in this project, being the backend developer. As a result, instructions will not be given to run/compile this project. Not from me not wanting to give instructions, but from the inability to do so. 
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+This project operated around the "low-code" design, which is essentially a way to build a web application with very little code. However, this does not mean that the finished product will lack the functionality of a typical web application. Appsmith provides a way to link multiple datasources and create multiple APIs to interact with JavaScript snippets. 
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen
@@ -37,7 +28,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Even though I primarily worked on the backend, this is still a team project. However, this project was not fully finished due to time constraints and scheduling conflicts. The team members I worked with were Edward "Matt" Phillips, Adam Thiemann, Blake Collins, Brian Diaz, and Lucas Neidlinger.  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
