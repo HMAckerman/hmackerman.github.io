@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:HMAckerman@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Hangman with Structs and Overloading | CSCI 235](project1)
+### [Hangman with Structs | CSCI 235](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Hangman Loss](images/cppfig6.jpg)
 
 ---
 ### [Perl Hash Table with File Input and Output | CSCI 301](../../project2.md)
@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Fort Knox Encryptor | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/FKEFig1.png)
+![Fort Knox Encryptor](images/FKEFig1.png)
 
 ---
 ### [UDP Client and Server | CSCI 332](project4)
