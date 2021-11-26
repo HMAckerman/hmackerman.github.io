@@ -12,7 +12,7 @@ Programming Projects
 ![Hangman Loss](images/cppfig6.jpg)
 
 ---
-### [Perl Hash Table with File Input and Output | CSCI 301](../../project2.md)
+### [Perl Hash Table with File Input and Output | CSCI 301](project2)
 
 ![Sorted Output](images/sorted.jpg)
 
