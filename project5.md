@@ -6,7 +6,7 @@ Appsmith Web Application Backend
 -   **Class: CSCI 495** 
 -   **Grade: TBA**
 -   **Language(s): JavaScript**
--   **Source Code Repository:** N/A 
+-   **Source Code Repository:** https://app.appsmith.com/applications/61730314515e45415cc7f574/pages/61730314515e45415cc7f576
     (Please [email me](mailto:HMAckerman@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
