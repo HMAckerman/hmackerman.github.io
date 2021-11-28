@@ -31,13 +31,13 @@ q
 This program has no UI, due to it being a scripting exercise with an emphasis on the structure of Perl hash tables. While not overly complex in function,
 the program fulfills a useful role of reading information from a text file, manipulating it, and creating output files. In figure 1, the first operation of sorting can be viewed, where the scores are sorted in ascending order. The names and scores are associated with one another thanks to a hash table. The averaging function is displayed in figure 2. This is the output after averaging all the scores together. The third operation selects the name with the highest score in figure 3. 
 
-![screenshot](images/sorted.jpg)
+![screenshot](images/sorted.jpg)<br>
 Fig 1. The output after sorting the values in ascending order according to their score. 
 
-![screenshot](images/averaged.jpg)
+![screenshot](images/averaged.jpg)<br>
 Fig 2. The output after averaging the scores together.
 
-![screenshot](images/winner.jpg)
+![screenshot](images/winner.jpg)<br>
 Fig 3. The output after deciding the winner. 
 
 ## 3. Additional Considerations
