@@ -31,19 +31,19 @@ This project was primarily UI based through a command prompt. First, the user ru
 ![Difficulty](images/cppfig1.jpg)<br>
 Fig 1. The user is given the choice to choose a difficulty.
 
-![Guesses](images/cppfig2.jpg)
+![Guesses](images/cppfig2.jpg)<br>
 Fig 2. The user is prompted to make a guess.
 
-![Correct Guess](images/cppfig3.jpg)
+![Correct Guess](images/cppfig3.jpg)<br>
 Fig 3. The user makes a correct guess.
 
-![Incorrect Guess](images/cppfig4.jpg)
+![Incorrect Guess](images/cppfig4.jpg)<br>
 Fig 4. The user makes an incorrect guess.
 
-![Win](images/cppfig5.jpg)
+![Win](images/cppfig5.jpg)<br>
 Fig 5. The user wins a game!
 
-![Lose](images/cppfig6.jpg)
+![Lose](images/cppfig6.jpg)<br>
 Fig 6. The user makes too many incorrect guesses.
 
 ## 3. Additional Considerations
