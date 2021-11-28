@@ -28,7 +28,7 @@ Enter a difficulty level.
 
 This project was primarily UI based through a command prompt. First, the user runs the hangman.exe file. A command prompt pops up, asking the user for their preferred difficulty level (see figure 1). The user is presented with a "noose" and several underscores. They are prompted to make a guess (see figure 2). If the user enters a letter that it is in the phrase, they receive "Good guess!", and the game continues (see figure 3). However, if they make an incorrect guess, a part of the stick figure is added to the noose. The game also keeps track of incorrect guesses (see figure 4). If the user wins, they receive a message saying "You win!". The game then prompts them for a replay (see figure 5). However, if they take too many guesses, they are "dead" (see figure 6). 
 
-![Difficulty](images/cppfig1.jpg)
+![Difficulty](images/cppfig1.jpg)<br>
 Fig 1. The user is given the choice to choose a difficulty.
 
 ![Guesses](images/cppfig2.jpg)
