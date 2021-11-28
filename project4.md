@@ -30,19 +30,19 @@ Terminal 2: Do ./UDPClient.out
 
 This project was not UI-focused. Rather, emphasis was put upon the command line and reading user input from the command line. First, the user opens a terminal and runs the UDPServer. The user will input the port the server is going to listen on (see figure 1). Next, the user is going to open a second terminal window, and run the UDPClient. It will ask for the server IP address and the server listening port. Since these programs are locally hosted, the server IP is 127.0.0.1 (see figure 2). It will then ask the user for a file to transfer. To visually show that no data was lost in transmission, a picture is used (see figure 3). The server and client will print out how many bytes are being sent. Once file transfer is done, both programs will quit (see figure 4). See figure 5 for evidence that the picture transfered successfully. If any bytes failed to transfer, that part of the picture would be missing. 
 
-![UDP Server](images/udpfig1.jpg)
+![UDP Server](images/udpfig1.jpg)<br>
 Fig 1. The server is launched and the port is defined.
 
-![UDP Client](images/udpfig2.jpg)
+![UDP Client](images/udpfig2.jpg)<br>
 Fig 2. The client is connected to the server.
 
-![An example photo](images/udpfig3.jpg)
+![An example photo](images/udpfig3.jpg)<br>
 Fig 3. The photo used to test transmission capabilities.
 
-![File Transfer](images/udpfig4.jpg)
+![File Transfer](images/udpfig4.jpg)<br>
 Fig 4. The bytes are transferred.
 
-![Successful Transfer](images/udpfig5.jpg)
+![Successful Transfer](images/udpfig5.jpg)<br>
 Fig 5. The photo used to test transmission capabilities is shown to be successfully transferred.
 
 ## 3. Additional Considerations
