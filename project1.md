@@ -20,6 +20,8 @@ How to compile (if applicable) and run the project.
 ```bash
 cd /project1
 g++ -Wextra -std=c++17 -o hangman.exe hangman.cpp
+Double-click on hangman.exe to run the program.
+Enter a difficulty level.
 ```
 
 ## UI Design
