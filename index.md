@@ -70,7 +70,7 @@ Presentations
 Infographics
 ------------
 
-### [Laws and Standards](/pdf/LawsandStandards.pdf)
+### [Laws and Standards](/pdf/The Laws of Cybersecurity-HaydenAckerman.pdf)
 
 - **Class: CSCI 352**
 - **Grade: TBD**
