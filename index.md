@@ -73,7 +73,7 @@ Infographics
 ### [Laws and Standards](/pdf/The%20Laws%20of%20Cybersecurity-HaydenAckerman.pdf)
 
 - **Class: CSCI 352**
-- **Grade: TBD**
+- **Grade: 100.00**
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
