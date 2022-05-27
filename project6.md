@@ -5,6 +5,7 @@ pfSense w/ Snort IDS Setup and Log4j Exploit and Monitoring
 
 -   **Class: CSCI 352** 
 -   **Grade: 102.00**
+-   **Project Document: [pfSense Setup Doc](/pdf/pfSense.pdf)**
 
 ## Project description
 This project was a team-based project, where my team and I were tasked with putting together a hands-on exercise for the rest of the class to complete. This 
@@ -62,4 +63,5 @@ Fig 12. The user exploits the Log4j vulnerability.
 Fig 13. Snort alerts to the exploit.
 
 ## Additional Considerations
-I primarily worked on setting up the machines, but I could not have done this project without the help of Lexa Mosby and Brian Diaz. I could not have asked for better teammates.
+I primarily worked on setting up the machines, but I could not have done this project without the help of Lexa Mosby and Brian Diaz. I could not have asked 
+for better teammates. Due to their stellar work, our project was voted as the favorite among the students, hence why we received a 102. 
