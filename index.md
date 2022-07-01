@@ -31,6 +31,11 @@ Programming Projects
 
 ![Appsmith](images/auth0fig5.jpg) 
 
+---
+### [pfSense w/Snort and Log4j | CSCI 352](project6)
+
+![pfSense](images/pfsense1.jpg)
+
 Ethics Papers
 -------------
 
