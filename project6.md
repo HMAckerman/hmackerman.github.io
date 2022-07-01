@@ -12,7 +12,7 @@ This project was a team-based project, where my team and I were tasked with putt
 project utilized the pfSense firewall package and the Snort IDS/IPS software extension. The students were tasked with installation and setup of the pfSense 
 machine, and assigning a static IP address to the WAN and LAN adapters. The students were also tasked with setting up the Snort software suite, downloading
 threat signatures and verifying the MD5 hash of the signatures. Then, the students were told to run a ping command in the CLI against a site, and were told to 
-record their findings from the Snort package. As extra credit, I provided students with the opportunity run the Log4j exploit against a dockerized vulnerable 
+record their findings from the Snort package. As extra credit, I provided students with the opportunity to run the Log4j exploit against a dockerized vulnerable 
 web app, and detect the exploit through Snort.
 
 ## UI Design
